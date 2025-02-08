@@ -33,7 +33,7 @@ namespace Homework3
                     Console.WriteLine($"{number} is non-prime");
             }
             Console.WriteLine(); // Blank line for separation
-            // Q2: Simple Square Pattern (2 points)
+            // Q2: Simple Square Pattern
             Console.WriteLine("Q2: Simple Square Pattern");
             Console.Write("Enter the size of the square (N): ");
             int nSimple = int.Parse(Console.ReadLine());
